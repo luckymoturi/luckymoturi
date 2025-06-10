@@ -40,7 +40,7 @@ const sandilya: Developer = {
 
 <div align="center">
   
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350"/>
+<img src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif" width="350"/>
 
 ### 📊 GitHub Analytics
 

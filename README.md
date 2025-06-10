@@ -155,7 +155,7 @@ Interactive portfolio featuring project showcases, skills demonstration, and pro
 <tr>
 <td width="50%">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luckymoturi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9)](https://github.com/luckymoturi/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckymoturi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" width="100%"/>
 
 </td>
 <td width="50%">
@@ -168,16 +168,16 @@ Interactive portfolio featuring project showcases, skills demonstration, and pro
 🧠 Algorithms: Continuous Learning
 ⚡ Performance: Optimization Focused
 ```
-
 </td>
 </tr>
 </table>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=luckymoturi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=luckymoturi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
 
 
 ## 🌐 Let's Connect & Collaborate

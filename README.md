@@ -149,16 +149,28 @@ Interactive portfolio featuring project showcases, skills demonstration, and pro
 
 ## 📈 Coding Journey
 
-<div align="center">
 
+<div align="center">
 <table>
 <tr>
 <td width="50%">
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=luckymoturi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=3" width="100%"/>
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luckymoturi&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckymoturi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" width="100%"/>
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luckymoturi&theme=radical&hide_border=true)
+</div>
 </td>
 <td width="50%">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luckymoturi&layout=compact&theme=radical&hide_border=true)
+
+</td>
+</tr>
+</table>
+</div>
+
 
 ### 🎯 Problem Solving Stats
 ```
